@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning NodeJs , ReactJS...
 - 👯 I’m looking to collaborate on projects related to web design, user interface development, and creative coding.
 - 🤔 I’m looking for help with mastering asynchronous programming patterns in JavaScript.
--💬 Ask me about my favorite JavaScript frameworks, and I'd be happy to discuss them!
+- 💬 Ask me about my favorite JavaScript frameworks, and I'd be happy to discuss them!
 - 📫 How to reach me: You can reach me via email shaktichandan720@gmail.com
 - ⚡ Fun fact: I'm also a coffee enthusiast, and I believe it fuels my coding sessions!
     
