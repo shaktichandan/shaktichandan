@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭Enthusiastic and motivated entry-level front-end web developer with a strong grasp of Html,<br>Css and Javascript.📫 Familiar with the basics of the React.js framework and equipped with <br>foundational knowledge in Core Java and Sql.🌱 Committed to continuous learning and dedicated <br>to delivering visually appealing and responsive web solutions. 🤔Seeking an opportunity to grow <br>and make a positive impact in the industry
-
-- 🔭 I’m currently looking to works on personal coding projects to hone my skills in Node.js and ReactJS.
+- 🔭 I’m currently looking to works on entry level job in software company on web devlopment projects to hone my skills in Node.js and ReactJS.
 - 🌱 I’m currently learning NodeJs , ReactJS...
 - 👯 I’m looking to collaborate on projects related to web design, user interface development, and creative coding.
 - 🤔 I’m looking for help with mastering asynchronous programming patterns in JavaScript.
