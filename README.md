@@ -1,7 +1,14 @@
 # 💫 About Me:
 🔭Enthusiastic and motivated entry-level front-end web developer with a strong grasp of Html,<br>Css and Javascript.📫 Familiar with the basics of the React.js framework and equipped with <br>foundational knowledge in Core Java and Sql.🌱 Committed to continuous learning and dedicated <br>to delivering visually appealing and responsive web solutions. 🤔Seeking an opportunity to grow <br>and make a positive impact in the industry
 
-
+- 🔭 I’m currently looking to works on personal coding projects to hone my skills in Node.js and ReactJS.
+- 🌱 I’m currently learning NodeJs , ReactJS...
+- 👯 I’m looking to collaborate on projects related to web design, user interface development, and creative coding.
+- 🤔 I’m looking for help with mastering asynchronous programming patterns in JavaScript.
+-💬 Ask me about my favorite JavaScript frameworks, and I'd be happy to discuss them!
+- 📫 How to reach me: You can reach me via email shaktichandan720@gmail.com
+- ⚡ Fun fact: I'm also a coffee enthusiast, and I believe it fuels my coding sessions!
+    
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shakti-chandan-sahoo-a66a15214) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shaktichandan) 
 
@@ -38,12 +45,16 @@
 
 Here are some ideas to get you started:
 
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently looking to works on personal coding projects to hone my skills in Node.js and ReactJS.
+- 🌱 I’m currently learning NodeJs , ReactJS...
+- 👯 I’m looking to collaborate on projects related to web design, user interface development, and creative coding.
+
+
+- 🤔 I’m looking for help with mastering asynchronous programming patterns in JavaScript.
+
+-💬 Ask me about my favorite JavaScript frameworks, and I'd be happy to discuss them!
+
+- 📫 How to reach me: You can reach me via email shaktichandan720@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm also a coffee enthusiast, and I believe it fuels my coding sessions!
 -->
